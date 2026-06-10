@@ -20,8 +20,8 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
+  <h1>Violeta Damjanovic-Behrendt</h1>
+  <p><strong>Founder & CTO of GreenTwin GmbH</strong></p>
   <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
 </div>
 
@@ -32,15 +32,15 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
+I hold a PhD in Computer Science (2008) from the University of Belgrade. 
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+My professional carrier began in the financial sector, where I worked as a software developer and data analyst (1998–2004), followed by a role as software project manager (2004–2006). Alongside my industry experience in financial technologies, I pursued both my MSc and PhD studies. My MSc thesis was awarded the 2005 Research Prize by the Serbian Society for Informatics, making the beginning of my transition towards a research career. 
+
+In 2006, I joined Salzburg Research, where I contributed to several research departments over the years, including Knowledge and Media Technologies (2006–2014), the Internet of Things Group (2014–2020), Smart Digital Twins (2020–2021), and the Intelligent Connectivity Group (2021–2023). Throughout this period, I was involved in numerous national and European research and innovation projects, advancing digital technologies in areas such as Web agents, Semantic Web technologies, ontology engineering, digital twins, interoperability, and intelligent networked systems.
+
+In 2022, I founded GreenTwin GmbH with the goal of transforming research results and innovative ideas into practical solutions addressing supply chain resilience, sustainability, and digital transformation challenges. This entrepreneurial journey led me to explore the potential of remote sensing, geospatial intelligence, and Earth Observation data analytics for supply chain optimization, risk assessment, and decision support. 
+
+Today, my professional portfolio reflects a unique combination of industrial practice, scientific research, and technology entrepreneurship, with a strong focus on developing data-driven solutions that bridge emerging technologies and real-world societal and industrial needs.
 
 </div>
 
@@ -53,7 +53,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Violeta-CV.pdf){ .md-button }
 
 
 ---
@@ -118,5 +118,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/VDB-GTW){ .md-button }
+[LinkedIn](https://linkedin.com/in/vdamjanovic){ .md-button }
