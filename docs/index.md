@@ -54,6 +54,8 @@ Today, my professional portfolio reflects a unique combination of industrial pra
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
 [Download CV :material-download:](assets/Violeta-CV.pdf){ .md-button }
+[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Violeta-CV.pdf){ .md-button }
 
 
 ---
