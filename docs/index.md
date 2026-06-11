@@ -32,11 +32,11 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I hold a PhD in Computer Science (2008) from the University of Belgrade. 
+I hold a PhD in Computer Science (2008) from the University of Belgrade (Serbia).
 
 My professional carrier began in the financial sector, where I worked as a software developer and data analyst (1998–2004), followed by a role as software project manager (2004–2006). Alongside my industry experience in financial technologies, I pursued both my MSc and PhD studies. My MSc thesis was awarded the 2005 Research Prize by the Serbian Society for Informatics, making the beginning of my transition towards a research career. 
 
-In 2006, I joined Salzburg Research, where I contributed to several research departments over the years, including Knowledge and Media Technologies (2006–2014), the Internet of Things Group (2014–2020), Smart Digital Twins (2020–2021), and the Intelligent Connectivity Group (2021–2023). Throughout this period, I was involved in numerous national and European research and innovation projects, advancing digital technologies in areas such as Web agents, Semantic Web technologies, ontology engineering, digital twins, interoperability, and intelligent networked systems.
+In 2006, I joined Salzburg Research (Austria), where I contributed to several departments over the years, including Knowledge and Media Technologies (2006–2014), the Internet of Things Group (2014–2020), Smart Digital Twins (2020–2021), and the Intelligent Connectivity Group (2021–2023). Throughout this period, I was involved in numerous national and European research and innovation projects, advancing digital technologies in areas such as Web agents, Semantic Web technologies, ontology engineering, digital twins, interoperability, and intelligent networked systems.
 
 In 2022, I founded GreenTwin GmbH with the goal of transforming research results and innovative ideas into practical solutions addressing supply chain resilience, sustainability, and digital transformation challenges. This entrepreneurial journey led me to explore the potential of remote sensing, geospatial intelligence, and Earth Observation data analytics for supply chain optimization, risk assessment, and decision support. 
 
@@ -54,8 +54,6 @@ Today, my professional portfolio reflects a unique combination of industrial pra
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
 [Download CV :material-download:](assets/Violeta-CV.pdf){ .md-button }
-[View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Violeta-CV.pdf){ .md-button }
 
 
 ---
@@ -63,6 +61,25 @@ Today, my professional portfolio reflects a unique combination of industrial pra
 ## Skills
 
 <div class="grid cards" markdown>
+
+-   :material-code-braces:{ .lg .middle } **Semantic Web & Ontology Engineering**
+
+    ---
+
+    - RDF, OWL
+    - SPARQL (SPARQL Protocol and RDF Query Language) - query language and protocol for Semantic Web technologies
+  
+
+-   :material-code-braces:{ .lg .middle } **Programming**
+    ---
+
+    - Next.js
+    - React, React Email, React Resend, Leaflet
+    - TypeScript, Tailwind CSS, Framer Motion, Shadcn UI
+    - SQL, PostgreSQL + PostGIS
+    - R — sf, terra, ggplot2
+    - Python — GeoPandas, NumPy, Pandas, Matplotlib
+
 
 -   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
 
@@ -73,14 +90,7 @@ Today, my professional portfolio reflects a unique combination of industrial pra
     - Multispectral and SAR image analysis
     - Cloud Native Geospatial (COG, STAC, Zarr)
 
--   :material-code-braces:{ .lg .middle } **Programming**
 
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
@@ -108,11 +118,6 @@ Today, my professional portfolio reflects a unique combination of industrial pra
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
 </div>
 
 
