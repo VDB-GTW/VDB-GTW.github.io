@@ -68,7 +68,7 @@ hide:
 
 ## Education
 
-### PhD in Information Systems
+### PhD in Computer Science
 **University of Belgrade, Faculty of Organizational Sciences (FON)** | *2008*
 
 Thesis: *"Ambient Intelligence in Adaptive Online Experiments"* — covering Ambient Intelligence, Personalized Adaptation, Multi-Agent Systems (MAS), and Technology Enhanced Learning (TEL). Supervised by Prof. Dr. Vladan Devedzic.
